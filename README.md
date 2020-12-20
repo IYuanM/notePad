@@ -146,7 +146,7 @@ int[] viewIDs = { android.R.id.text1, R.id.modifytime };
 
 ### 1.4效果展示
 
-
+![mage texxt](https://github.com/IYuanM/MyUI/blob/main/pictures/1.1.PNG)<br>
 
 
 
@@ -325,7 +325,8 @@ case R.id.menu_search:
 
 ### 2.4运行效果
 
-
+![mage texxt](https://github.com/IYuanM/MyUI/blob/main/pictures/1.1.PNG)<br>
+![mage texxt](https://github.com/IYuanM/MyUI/blob/main/pictures/1.1.PNG)<br>
 
 ## 附加功能
 
@@ -363,7 +364,7 @@ case R.id.menu_search:
 #### 效果图
 
 
-
+![mage texxt](https://github.com/IYuanM/MyUI/blob/main/pictures/1.1.PNG)<br>
 
 
 #### 写日记界面背景的修改
@@ -492,7 +493,7 @@ public boolean onOptionsItemSelected(MenuItem item) {
 
 #### 效果图
 
-
+![mage texxt](https://github.com/IYuanM/MyUI/blob/main/pictures/1.1.PNG)<br>
 
 
 
